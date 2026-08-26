@@ -1,8 +1,5 @@
 # Vic Modern Hotel Network Design & Implementation
 
-> End-of-year networking project — design and implementation of a segmented, secure,
-> dynamically-addressed three-floor hotel network in Cisco Packet Tracer.
-
 # Overview
 
 This project designs and implements the network infrastructure for **Vic Modern Hotel**,
